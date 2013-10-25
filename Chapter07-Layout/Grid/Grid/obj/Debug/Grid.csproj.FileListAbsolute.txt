@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\Bin\Debug\Grid.dll
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\Bin\Debug\Grid.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\Bin\Debug\Grid.xap
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\Grid.g.resources
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\Grid.dll
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\Grid.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\Grid\Grid\obj\Debug\XapCacheFile.xml

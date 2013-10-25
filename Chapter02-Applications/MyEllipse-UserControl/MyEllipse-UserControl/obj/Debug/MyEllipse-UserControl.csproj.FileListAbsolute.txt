@@ -1,0 +1,13 @@
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\Bin\Debug\MyEllipse-UserControl.dll
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\Bin\Debug\MyEllipse-UserControl.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\Bin\Debug\MyEllipse-UserControl.xap
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\MyEllipse.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\MyEllipse-UserControl.g.resources
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\MyEllipse-UserControl.dll
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\MyEllipse-UserControl.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-UserControl\MyEllipse-UserControl\obj\Debug\XapCacheFile.xml

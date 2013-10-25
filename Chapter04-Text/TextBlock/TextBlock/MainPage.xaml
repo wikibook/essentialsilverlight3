@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="TextBlock.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Grid x:Name="LayoutRoot">
+        <StackPanel Orientation="Vertical">
+            <TextBlock Width="450" TextWrapping="Wrap">
+                Microsoft Silverlight is a cross-browser, cross-platform 
+                plug-in for delivering the next generation of .NET based media
+                experiences and rich interactive applications for the Web.                
+                <LineBreak/>                
+                Silverlight supports fast, cost-effective delivery of 
+                high-quality video to all major browsers running on the 
+                Mac OS or Windows.
+            </TextBlock>
+            <TextBlock>
+                <Run FontWeight="Bold">Bold, </Run>
+                <Run FontStyle="Italic">italic, </Run>
+                and <Run TextDecorations="Underline">underline</Run>
+            </TextBlock>
+            <TextBlock FontStyle="Italic">
+                <Run FontWeight="Bold">bold and italic inheritence test</Run>
+            </TextBlock>
+
+            <TextBlock>
+                <TextBlock.Foreground>
+                    <RadialGradientBrush>
+                        <GradientBrush.GradientStops>
+                            <GradientStopCollection>
+                                <GradientStop Color="#FF000000" Offset="0" />
+                                <GradientStop Color="#FFAAAAAA" Offset="1" />
+                            </GradientStopCollection>
+                        </GradientBrush.GradientStops>
+                    </RadialGradientBrush>
+                </TextBlock.Foreground>
+                <Run FontSize="25">Brush applied to text</Run>
+            </TextBlock>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

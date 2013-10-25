@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\Bin\Debug\SimpleDataBinding.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\Bin\Debug\SimpleDataBinding.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\Bin\Debug\SimpleDataBinding.xap
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.g.resources
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\SimpleDataBinding\SimpleDataBinding\obj\Debug\XapCacheFile.xml

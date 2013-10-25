@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\Bin\Debug\HelloWorld-EventHandler.dll
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\Bin\Debug\HelloWorld-EventHandler.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\Bin\Debug\HelloWorld-EventHandler.xap
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\HelloWorld-EventHandler.g.resources
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\HelloWorld-EventHandler.dll
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\HelloWorld-EventHandler.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-EventHandler\HelloWorld-EventHandler\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="CustomButton.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:vsm="clr-namespace:System.Windows;assembly=System.Windows"
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Canvas x:Name="LayoutRoot">
+        <Button Width="100" Height="50" Content="Hello World">
+            <Button.Template>
+                <ControlTemplate>
+                    <Grid>
+                        <vsm:VisualStateManager.VisualStateGroups>
+                            <vsm:VisualStateGroup x:Name="CommonStates">
+                                <vsm:VisualState x:Name="Normal"/>
+                                <vsm:VisualState x:Name="MouseOver"/>
+                                <vsm:VisualState x:Name="Disabled"/>
+                                <vsm:VisualState x:Name="Pressed">
+                                    <Storyboard>
+                                        <ColorAnimation 
+                                            Duration="0"         
+                                            Storyboard.TargetName="ButtonBorderBrush" 
+                                           Storyboard.TargetProperty="Color" To="Black"
+                                        />
+                                    </Storyboard>
+                                </vsm:VisualState>
+                            </vsm:VisualStateGroup>
+
+                            <vsm:VisualStateGroup x:Name="FocusStates">
+                                <vsm:VisualState x:Name="Focused"/>
+                            </vsm:VisualStateGroup>
+
+                        </vsm:VisualStateManager.VisualStateGroups>
+
+                        <Border Background="White" BorderThickness="5">
+                            <Border.BorderBrush>
+                                <SolidColorBrush x:Name="ButtonBorderBrush" Color="LightGray"/>
+                            </Border.BorderBrush>
+                            <ContentPresenter
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                x:Name="contentPresenter"
+                                Content="{TemplateBinding Content}"
+                            />
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Canvas>
+</UserControl>

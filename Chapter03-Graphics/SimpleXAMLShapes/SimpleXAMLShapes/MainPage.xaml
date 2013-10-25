@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="SimpleXAMLShapes.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Grid x:Name="LayoutRoot">
+        <Canvas>
+            <!-- triangle -->
+            <Path 
+                Fill="Green" 
+                Data="F1 M 128,12L 12,224L 224,224"
+            />
+
+            <!-- rectangle -->
+            <Rectangle 
+                Fill="Blue"
+                Canvas.Left="96" 
+                Canvas.Top="160" 
+                Width="256" 
+                Height="224" 
+            />
+
+            <!-- circle -->
+            <Ellipse 
+                Fill="Red"
+                Canvas.Left="230" 
+                Canvas.Top="288" 
+                Width="200" 
+                Height="200" 
+            />
+        </Canvas>
+    </Grid>
+</UserControl>

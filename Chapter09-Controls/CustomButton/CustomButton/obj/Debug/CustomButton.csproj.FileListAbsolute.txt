@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\Bin\Debug\CustomButton.dll
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\Bin\Debug\CustomButton.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\Bin\Debug\CustomButton.xap
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\CustomButton.g.resources
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\CustomButton.dll
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\CustomButton.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\CustomButton\CustomButton\obj\Debug\XapCacheFile.xml

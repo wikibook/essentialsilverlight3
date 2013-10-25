@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\ShaderExample.g.resources
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\Bin\Debug\ShaderExample.dll
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\Bin\Debug\ShaderExample.pdb
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\Bin\Debug\ShaderExample.xap
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\ShaderExample.dll
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\ShaderExample.pdb
+C:\EssentialSilverlight3\Chapter11-Effects\ShaderExample\ShaderExample\obj\Debug\XapCacheFile.xml

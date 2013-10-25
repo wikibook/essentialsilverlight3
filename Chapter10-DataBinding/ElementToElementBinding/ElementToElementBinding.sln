@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementToElementBinding", "ElementToElementBinding\ElementToElementBinding.csproj", "{590E51EA-301A-44B4-89D1-552164CE79DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590E51EA-301A-44B4-89D1-552164CE79DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590E51EA-301A-44B4-89D1-552164CE79DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590E51EA-301A-44B4-89D1-552164CE79DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590E51EA-301A-44B4-89D1-552164CE79DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

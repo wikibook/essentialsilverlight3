@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\CustomWrapPanel.g.resources
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\Bin\Debug\CustomWrapPanel.dll
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\Bin\Debug\CustomWrapPanel.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\Bin\Debug\CustomWrapPanel.xap
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\CustomWrapPanel.dll
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\CustomWrapPanel.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\CustomWrapPanel\CustomWrapPanel\obj\Debug\XapCacheFile.xml

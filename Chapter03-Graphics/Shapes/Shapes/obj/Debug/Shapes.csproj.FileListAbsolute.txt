@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\Bin\Debug\Shapes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\Bin\Debug\Shapes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\Bin\Debug\Shapes.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\Shapes.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\Shapes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Shapes\Shapes\obj\Debug\XapCacheFile.xml

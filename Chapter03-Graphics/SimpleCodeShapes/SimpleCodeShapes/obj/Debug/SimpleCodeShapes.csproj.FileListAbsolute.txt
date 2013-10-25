@@ -1,0 +1,11 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\Bin\Debug\SimpleCodeShapes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\Bin\Debug\SimpleCodeShapes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\Bin\Debug\SimpleCodeShapes.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\obj\Debug\SimpleCodeShapes.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\obj\Debug\SimpleCodeShapes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\obj\Debug\SimpleCodeShapes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleCodeShapes\SimpleCodeShapes\obj\Debug\XapCacheFile.xml

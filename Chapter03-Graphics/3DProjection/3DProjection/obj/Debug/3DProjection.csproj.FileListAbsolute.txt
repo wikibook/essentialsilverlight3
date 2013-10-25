@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\Bin\Debug\3DProjection.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\Bin\Debug\3DProjection.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\Bin\Debug\3DProjection.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\3DProjection.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\3DProjection.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\3DProjection.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\3DProjection\3DProjection\obj\Debug\XapCacheFile.xml

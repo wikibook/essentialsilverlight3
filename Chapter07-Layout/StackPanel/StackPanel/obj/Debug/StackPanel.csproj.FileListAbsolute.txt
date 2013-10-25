@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\Bin\Debug\StackPanel.dll
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\Bin\Debug\StackPanel.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\Bin\Debug\StackPanel.xap
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\StackPanel.g.resources
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\StackPanel.dll
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\StackPanel.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\StackPanel\StackPanel\obj\Debug\XapCacheFile.xml

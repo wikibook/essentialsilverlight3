@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="Styles.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Canvas x:Name="LayoutRoot">
+        <Canvas.Resources>
+            <!-- define the style -->
+            <Style x:Key="CustomStyle" TargetType="TextBlock">
+                <Setter Property="FontSize" Value="24"/>
+                <Setter Property="FontStyle" Value="Italic"/>
+            </Style>
+        </Canvas.Resources>
+
+        <!-- use the style -->
+        <TextBlock 
+            Style="{StaticResource CustomStyle}">
+            Custom TextBlock style
+        </TextBlock>
+    </Canvas>
+</UserControl>

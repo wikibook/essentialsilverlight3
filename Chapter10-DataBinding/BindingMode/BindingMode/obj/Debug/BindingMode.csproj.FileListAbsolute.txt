@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\BindingMode.g.resources
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\Bin\Debug\BindingMode.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\Bin\Debug\BindingMode.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\Bin\Debug\BindingMode.xap
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\BindingMode.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\BindingMode.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\BindingMode\BindingMode\obj\Debug\XapCacheFile.xml

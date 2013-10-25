@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\Bin\Debug\DiscreteAnimations.dll
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\Bin\Debug\DiscreteAnimations.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\Bin\Debug\DiscreteAnimations.xap
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\DiscreteAnimations.g.resources
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\DiscreteAnimations.dll
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\DiscreteAnimations.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\DiscreteAnimations\DiscreteAnimations\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\Bin\Debug\VideoBrush.dll
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\Bin\Debug\VideoBrush.pdb
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\Bin\Debug\VideoBrush.xap
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\VideoBrush.g.resources
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\VideoBrush.dll
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\VideoBrush.pdb
+C:\EssentialSilverlight3\Chapter08-Media\VideoBrush\VideoBrush\obj\Debug\XapCacheFile.xml

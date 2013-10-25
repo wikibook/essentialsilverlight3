@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\Bin\Debug\MyEllipse-CustomControl.dll
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\Bin\Debug\MyEllipse-CustomControl.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\MyEllipse-CustomControl.g.resources
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\MyEllipse-CustomControl.dll
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\MyEllipse-CustomControl.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\Bin\Debug\MyEllipse-CustomControl.xap
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter02-Applications\MyEllipse-CustomControl\MyEllipse-CustomControl\obj\Debug\XapCacheFile.xml

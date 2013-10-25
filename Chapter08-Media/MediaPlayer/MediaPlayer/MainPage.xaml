@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="MediaPlayer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Grid x:Name="LayoutRoot">
+        <StackPanel>
+            <TextBlock TextWrapping="Wrap" Text="Find any .wmv file and copy to the same path shown in the browser address bar.  Sample video must be named silverlight.wmv"/>
+            <MediaElement 
+              x:Name="myMediaElement" 
+              Source="silverlight.wmv"
+              Width="200"
+              Height="200"
+            />
+
+            <TextBlock x:Name="myStatus"/>
+
+            <StackPanel Orientation="Horizontal">
+                <Button 
+                    x:Name="myPlayButton" 
+                    Width="100" 
+                    Content="Play" 
+                    Click="OnPlay"
+                />
+                <Button 
+                    x:Name="myPauseButton" 
+                    Width="100" 
+                    Content="Pause" 
+                    Click="OnPause"
+                />
+
+                <Button 
+                    x:Name="myStopButton" 
+                    Width="100" 
+                    Content="Stop" 
+                    Click="OnStop"
+                />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

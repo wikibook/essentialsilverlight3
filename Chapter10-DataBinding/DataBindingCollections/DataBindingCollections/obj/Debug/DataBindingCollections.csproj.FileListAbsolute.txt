@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\DataBindingCollections.g.resources
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\Bin\Debug\DataBindingCollections.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\Bin\Debug\DataBindingCollections.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\Bin\Debug\DataBindingCollections.xap
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\DataBindingCollections.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\DataBindingCollections.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\DataBindingCollections\DataBindingCollections\obj\Debug\XapCacheFile.xml

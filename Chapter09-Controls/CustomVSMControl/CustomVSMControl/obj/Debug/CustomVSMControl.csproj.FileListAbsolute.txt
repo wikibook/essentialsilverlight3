@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\Bin\Debug\CustomVSMControl.dll
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\Bin\Debug\CustomVSMControl.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\Bin\Debug\CustomVSMControl.xap
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\CustomVSMControl.g.resources
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\CustomVSMControl.dll
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\CustomVSMControl.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\CustomVSMControl\CustomVSMControl\obj\Debug\XapCacheFile.xml

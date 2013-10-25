@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\Bin\Debug\XAP-Images.dll
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\Bin\Debug\XAP-Images.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\Bin\Debug\XAP-Images.xap
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\XAP-Images.g.resources
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\XAP-Images.dll
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\XAP-Images.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\XAP-Images\XAP-Images\obj\Debug\XapCacheFile.xml

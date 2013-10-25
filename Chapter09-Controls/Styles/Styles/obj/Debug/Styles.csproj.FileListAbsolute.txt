@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\Bin\Debug\Styles.dll
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\Bin\Debug\Styles.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\Bin\Debug\Styles.xap
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\Styles.g.resources
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\Styles.dll
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\Styles.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\Styles\Styles\obj\Debug\XapCacheFile.xml

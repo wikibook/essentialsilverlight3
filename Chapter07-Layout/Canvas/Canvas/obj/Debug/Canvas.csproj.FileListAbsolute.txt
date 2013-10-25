@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\Bin\Debug\Canvas.dll
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\Bin\Debug\Canvas.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\Bin\Debug\Canvas.xap
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\Canvas.g.resources
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\Canvas.dll
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\Canvas.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\Canvas\Canvas\obj\Debug\XapCacheFile.xml

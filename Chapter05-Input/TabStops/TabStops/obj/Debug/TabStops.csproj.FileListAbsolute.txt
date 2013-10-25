@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\Bin\Debug\TabStops.dll
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\Bin\Debug\TabStops.pdb
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\Bin\Debug\TabStops.xap
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\TabStops.g.resources
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\TabStops.dll
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\TabStops.pdb
+C:\EssentialSilverlight3\Chapter05-Input\TabStops\TabStops\obj\Debug\XapCacheFile.xml

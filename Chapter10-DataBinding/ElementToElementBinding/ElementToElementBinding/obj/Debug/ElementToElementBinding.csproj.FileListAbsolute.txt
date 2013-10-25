@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\Bin\Debug\ElementToElementBinding.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\Bin\Debug\ElementToElementBinding.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\Bin\Debug\ElementToElementBinding.xap
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\ElementToElementBinding.g.resources
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\ElementToElementBinding.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\ElementToElementBinding.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\ElementToElementBinding\ElementToElementBinding\obj\Debug\XapCacheFile.xml

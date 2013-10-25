@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="BindingMode.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <StackPanel>
+        <TextBlock x:Name="myOneTimeTextBlock" Text="{Binding Employee, Mode=OneTime}"/>
+        <TextBlock x:Name="myOneWayTextBlock" Text="{Binding Employee, Mode=OneWay}"/>
+        <TextBlock x:Name="myTwoWayTextBlock" Text="{Binding Employee, Mode=TwoWay}"/>
+    </StackPanel>
+</UserControl>

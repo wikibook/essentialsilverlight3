@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\Bin\Debug\ItemsControl.dll
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\Bin\Debug\ItemsControl.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\Bin\Debug\ItemsControl.xap
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\ItemsControl.g.resources
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\ItemsControl.dll
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\ItemsControl.pdb
+C:\EssentialSilverlight3\Chapter09-Controls\ItemsControl\ItemsControl\obj\Debug\XapCacheFile.xml

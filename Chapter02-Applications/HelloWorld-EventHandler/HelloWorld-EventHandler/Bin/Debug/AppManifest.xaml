@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="HelloWorld-EventHandler" EntryPointType="HelloWorld_EventHandler.App" RuntimeVersion="3.0.40818.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="HelloWorld-EventHandler" Source="HelloWorld-EventHandler.dll" />
+  </Deployment.Parts>
+</Deployment>

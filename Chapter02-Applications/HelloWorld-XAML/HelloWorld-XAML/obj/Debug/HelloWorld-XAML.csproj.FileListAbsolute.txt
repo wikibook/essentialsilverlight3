@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\Bin\Debug\HelloWorld-XAML.dll
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\Bin\Debug\HelloWorld-XAML.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\Bin\Debug\HelloWorld-XAML.xap
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\HelloWorld-XAML.g.resources
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\HelloWorld-XAML.dll
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\HelloWorld-XAML.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-XAML\HelloWorld-XAML\obj\Debug\XapCacheFile.xml

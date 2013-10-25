@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\Bin\Debug\Clipping.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\Bin\Debug\Clipping.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\Bin\Debug\Clipping.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\Clipping.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\Clipping.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\Clipping.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Clipping\Clipping\obj\Debug\XapCacheFile.xml

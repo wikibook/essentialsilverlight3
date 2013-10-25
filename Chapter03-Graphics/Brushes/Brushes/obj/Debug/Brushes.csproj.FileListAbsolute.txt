@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\Bin\Debug\Brushes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\Bin\Debug\Brushes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\Bin\Debug\Brushes.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\Brushes.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\Brushes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\Brushes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Brushes\Brushes\obj\Debug\XapCacheFile.xml

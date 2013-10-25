@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\Bin\Debug\Dashes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\Bin\Debug\Dashes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\Bin\Debug\Dashes.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\Dashes.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\Dashes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\Dashes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Dashes\Dashes\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,15 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="HelloWorld-OutOfBrowser" EntryPointType="HelloWorld_OutOfBrowser.App" RuntimeVersion="3.0.40818.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="HelloWorld-OutOfBrowser" Source="HelloWorld-OutOfBrowser.dll" />
+  </Deployment.Parts>
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="Hello World">
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="Hello World" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.Blurb>
+                Description of your Silverlight application
+            </OutOfBrowserSettings.Blurb>
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+</Deployment>

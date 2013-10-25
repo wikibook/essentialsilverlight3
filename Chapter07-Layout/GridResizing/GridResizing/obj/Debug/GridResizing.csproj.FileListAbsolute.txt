@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\Bin\Debug\GridResizing.dll
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\Bin\Debug\GridResizing.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\Bin\Debug\GridResizing.xap
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\GridResizing.g.resources
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\GridResizing.dll
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\GridResizing.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\GridResizing\GridResizing\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="Brushes.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Grid x:Name="LayoutRoot">
+        <StackPanel Orientation="Horizontal">
+            <!-- Solid colors -->
+            <Rectangle 
+                StrokeThickness="5"
+                Width="100" 
+                Height="100" 
+            >
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="Red"/>
+                </Rectangle.Fill>
+                <Rectangle.Stroke>
+                    <SolidColorBrush Color="Blue"/>
+                </Rectangle.Stroke>
+            </Rectangle>
+
+            <!-- Linear gradient -->
+            <Ellipse 
+                Width="100" 
+                Height="100" 
+            >
+                <Ellipse.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <LinearGradientBrush.GradientStops>
+                            <GradientStop Color="White" Offset="0"/>
+                            <GradientStop Color="Black" Offset="1"/>
+                        </LinearGradientBrush.GradientStops>
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <!-- Radial gradient -->
+            <Ellipse 
+                Width="100" 
+                Height="100" 
+            >
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <RadialGradientBrush.GradientStops>
+                            <GradientStop Color="White" Offset="0"/>
+                            <GradientStop Color="Black" Offset="1"/>
+                        </RadialGradientBrush.GradientStops>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            
+            <!-- ImageBrush -->
+            <Ellipse 
+                Width="100" 
+                Height="100" 
+                Stroke="Black"
+                StrokeThickness="5"
+            >
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="silverlight.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+
+
+        </StackPanel>
+    </Grid>
+</UserControl>

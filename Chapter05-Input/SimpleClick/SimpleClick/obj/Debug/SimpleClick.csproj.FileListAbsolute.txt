@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\Bin\Debug\SimpleClick.dll
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\Bin\Debug\SimpleClick.pdb
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\Bin\Debug\SimpleClick.xap
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\SimpleClick.g.resources
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\SimpleClick.dll
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\SimpleClick.pdb
+C:\EssentialSilverlight3\Chapter05-Input\SimpleClick\SimpleClick\obj\Debug\XapCacheFile.xml

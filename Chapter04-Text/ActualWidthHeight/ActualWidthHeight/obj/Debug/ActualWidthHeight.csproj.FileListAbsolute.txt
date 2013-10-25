@@ -1,0 +1,11 @@
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\Bin\Debug\ActualWidthHeight.dll
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\Bin\Debug\ActualWidthHeight.pdb
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\Bin\Debug\ActualWidthHeight.xap
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\obj\Debug\ActualWidthHeight.g.resources
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\obj\Debug\ActualWidthHeight.dll
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\obj\Debug\ActualWidthHeight.pdb
+C:\EssentialSilverlight3\Chapter04-Text\ActualWidthHeight\ActualWidthHeight\obj\Debug\XapCacheFile.xml

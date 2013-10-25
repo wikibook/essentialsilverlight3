@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\Bin\Debug\Border.dll
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\Bin\Debug\Border.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\Bin\Debug\Border.xap
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\Border.g.resources
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\Border.dll
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\Border.pdb
+c:\EssentialSilverlight3\Chapter07-Layout\Border\Border\obj\Debug\XapCacheFile.xml

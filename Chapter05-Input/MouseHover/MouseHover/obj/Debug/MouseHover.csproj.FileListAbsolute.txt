@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\Bin\Debug\MouseHover.dll
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\Bin\Debug\MouseHover.pdb
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\Bin\Debug\MouseHover.xap
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\MouseHover.g.resources
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\MouseHover.dll
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\MouseHover.pdb
+C:\EssentialSilverlight3\Chapter05-Input\MouseHover\MouseHover\obj\Debug\XapCacheFile.xml

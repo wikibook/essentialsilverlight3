@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\Bin\Debug\MousePosition.dll
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\Bin\Debug\MousePosition.pdb
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\Bin\Debug\MousePosition.xap
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\MousePosition.g.resources
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\MousePosition.dll
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\MousePosition.pdb
+C:\EssentialSilverlight3\Chapter05-Input\MousePosition\MousePosition\obj\Debug\XapCacheFile.xml

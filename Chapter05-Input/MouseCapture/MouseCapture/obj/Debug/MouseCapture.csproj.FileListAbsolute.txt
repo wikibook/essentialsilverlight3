@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\Bin\Debug\MouseCapture.dll
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\Bin\Debug\MouseCapture.pdb
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\Bin\Debug\MouseCapture.xap
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\MouseCapture.g.resources
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\MouseCapture.dll
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\MouseCapture.pdb
+C:\EssentialSilverlight3\Chapter05-Input\MouseCapture\MouseCapture\obj\Debug\XapCacheFile.xml

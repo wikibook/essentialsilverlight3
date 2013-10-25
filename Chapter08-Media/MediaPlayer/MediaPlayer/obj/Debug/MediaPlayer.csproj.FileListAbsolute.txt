@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\Bin\Debug\MediaPlayer.dll
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\Bin\Debug\MediaPlayer.pdb
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\Bin\Debug\MediaPlayer.xap
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.dll
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\EssentialSilverlight3\Chapter08-Media\MediaPlayer\MediaPlayer\obj\Debug\XapCacheFile.xml

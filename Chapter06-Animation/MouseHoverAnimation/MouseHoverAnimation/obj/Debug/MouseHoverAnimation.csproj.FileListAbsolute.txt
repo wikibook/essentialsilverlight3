@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\Bin\Debug\MouseHoverAnimation.dll
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\Bin\Debug\MouseHoverAnimation.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\Bin\Debug\MouseHoverAnimation.xap
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\MouseHoverAnimation.g.resources
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\MouseHoverAnimation.dll
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\MouseHoverAnimation.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\MouseHoverAnimation\MouseHoverAnimation\obj\Debug\XapCacheFile.xml

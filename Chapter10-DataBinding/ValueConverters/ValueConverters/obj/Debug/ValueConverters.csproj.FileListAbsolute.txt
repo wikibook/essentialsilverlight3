@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\ValueConverters.g.resources
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\Bin\Debug\ValueConverters.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\Bin\Debug\ValueConverters.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\Bin\Debug\ValueConverters.xap
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\ValueConverters.dll
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\ValueConverters.pdb
+C:\EssentialSilverlight3\Chapter10-DataBinding\ValueConverters\ValueConverters\obj\Debug\XapCacheFile.xml

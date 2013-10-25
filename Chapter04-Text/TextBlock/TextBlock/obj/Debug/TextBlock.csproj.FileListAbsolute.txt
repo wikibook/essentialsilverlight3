@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\Bin\Debug\TextBlock.dll
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\Bin\Debug\TextBlock.pdb
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\Bin\Debug\TextBlock.xap
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\TextBlock.g.resources
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\TextBlock.dll
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\TextBlock.pdb
+C:\EssentialSilverlight3\Chapter04-Text\TextBlock\TextBlock\obj\Debug\XapCacheFile.xml

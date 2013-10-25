@@ -1,0 +1,12 @@
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\Bin\Debug\HelloWorld-OutOfBrowser.dll
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\Bin\Debug\HelloWorld-OutOfBrowser.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\Bin\Debug\AppManifest.xaml
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\Bin\Debug\HelloWorld-OutOfBrowser.xap
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\Bin\Debug\TestPage.html
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\ResolveAssemblyReference.cache
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\App.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\MainPage.g.cs
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\HelloWorld-OutOfBrowser.g.resources
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\HelloWorld-OutOfBrowser.dll
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\HelloWorld-OutOfBrowser.pdb
+c:\EssentialSilverlight3\Chapter02-Applications\HelloWorld-OutOfBrowser\HelloWorld-OutOfBrowser\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\Bin\Debug\CustomEasingFunction.dll
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\Bin\Debug\CustomEasingFunction.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\Bin\Debug\CustomEasingFunction.xap
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\CustomEasingFunction.g.resources
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\CustomEasingFunction.dll
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\CustomEasingFunction.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\CustomEasingFunction\CustomEasingFunction\obj\Debug\XapCacheFile.xml

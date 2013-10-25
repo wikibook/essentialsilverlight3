@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\Bin\Debug\XAMLAnimation.dll
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\Bin\Debug\XAMLAnimation.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\Bin\Debug\XAMLAnimation.xap
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\XAMLAnimation.g.resources
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\XAMLAnimation.dll
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\XAMLAnimation.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\XAMLAnimation\XAMLAnimation\obj\Debug\XapCacheFile.xml

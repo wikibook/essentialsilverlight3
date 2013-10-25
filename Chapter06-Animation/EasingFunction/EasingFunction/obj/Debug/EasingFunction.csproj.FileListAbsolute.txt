@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\Bin\Debug\EasingFunction.dll
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\Bin\Debug\EasingFunction.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\Bin\Debug\EasingFunction.xap
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\EasingFunction.g.resources
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\EasingFunction.dll
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\EasingFunction.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\EasingFunction\EasingFunction\obj\Debug\XapCacheFile.xml

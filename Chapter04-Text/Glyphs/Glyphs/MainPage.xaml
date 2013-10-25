@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Glyphs.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="480">
+    <Grid x:Name="LayoutRoot">
+        <Canvas>
+            <Canvas.RenderTransform>
+                <MatrixTransform Matrix="1.333333333,0,0,1.333333333,0,0"/>
+            </Canvas.RenderTransform>
+            <Glyphs Name="a0" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="26.04" StyleSimulations="None" OriginX="273.05"
+              OriginY="123.74" UnicodeString="∑" Indices="3533">
+            </Glyphs>
+            <Glyphs Name="a1" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="26.04" StyleSimulations="None" OriginX="312.55"
+              OriginY="123.74" Indices="1876">
+            </Glyphs>
+            <Glyphs Name="a2" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="18.48" StyleSimulations="None" OriginX="327.91"
+              OriginY="114.26" Indices="2870">
+            </Glyphs>
+            <Glyphs Name="a3" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="18.48" StyleSimulations="None" OriginX="284.11"
+              OriginY="84.984" Indices="3041">
+            </Glyphs>
+            <Glyphs Name="a4" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="18.48" StyleSimulations="None" OriginX="272.57"
+              OriginY="156.86" Indices="3051">
+            </Glyphs>
+            <Glyphs Name="a5" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="18.48" StyleSimulations="None" OriginX="283.99"
+              OriginY="156.86" Indices="2880">
+            </Glyphs>
+            <Glyphs Name="a6" Fill="#FF000000"
+              FontUri="556D5CE4-2544-0857-892A-21587C6FF772.odttf"
+              FontRenderingEmSize="18.48" StyleSimulations="None" OriginX="297.43"
+              OriginY="156.86" Indices="2869">
+            </Glyphs>
+            <Glyphs Name="a7" Fill="#FF000000"
+              FontUri="057E4E14-58AC-37CC-9D01-0A5BD5242C15.odttf"
+              FontRenderingEmSize="26.04" StyleSimulations="None" OriginX="339.55"
+              OriginY="123.74" UnicodeString=" " Indices="">
+            </Glyphs>
+        </Canvas>
+    </Grid>
+</UserControl>

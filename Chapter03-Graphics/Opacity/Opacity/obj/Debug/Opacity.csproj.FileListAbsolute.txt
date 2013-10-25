@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\Bin\Debug\Opacity.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\Bin\Debug\Opacity.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\Bin\Debug\Opacity.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\Opacity.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\Opacity.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\Opacity.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\Opacity\Opacity\obj\Debug\XapCacheFile.xml

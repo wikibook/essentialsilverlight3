@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\Bin\Debug\SimpleXAMLShapes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\Bin\Debug\SimpleXAMLShapes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\Bin\Debug\SimpleXAMLShapes.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\SimpleXAMLShapes.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\SimpleXAMLShapes.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\SimpleXAMLShapes.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\SimpleXAMLShapes\SimpleXAMLShapes\obj\Debug\XapCacheFile.xml

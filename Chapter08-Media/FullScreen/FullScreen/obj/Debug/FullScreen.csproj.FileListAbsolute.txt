@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\Bin\Debug\FullScreen.dll
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\Bin\Debug\FullScreen.pdb
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\Bin\Debug\FullScreen.xap
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\FullScreen.g.resources
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\FullScreen.dll
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\FullScreen.pdb
+C:\EssentialSilverlight3\Chapter08-Media\FullScreen\FullScreen\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\Bin\Debug\Keyframes.dll
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\Bin\Debug\Keyframes.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\Bin\Debug\Keyframes.xap
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\Keyframes.g.resources
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\Keyframes.dll
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\Keyframes.pdb
+C:\EssentialSilverlight3\Chapter06-Animation\Keyframes\Keyframes\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\Bin\Debug\Keyboard.dll
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\Bin\Debug\Keyboard.pdb
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\Bin\Debug\Keyboard.xap
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\Keyboard.g.resources
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\Keyboard.dll
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\Keyboard.pdb
+C:\EssentialSilverlight3\Chapter05-Input\Keyboard\Keyboard\obj\Debug\XapCacheFile.xml

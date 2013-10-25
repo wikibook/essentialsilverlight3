@@ -1,0 +1,12 @@
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\Bin\Debug\OpacityMask.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\Bin\Debug\OpacityMask.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\Bin\Debug\AppManifest.xaml
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\Bin\Debug\OpacityMask.xap
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\Bin\Debug\TestPage.html
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\ResolveAssemblyReference.cache
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\App.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\MainPage.g.cs
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\OpacityMask.g.resources
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\OpacityMask.dll
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\OpacityMask.pdb
+C:\EssentialSilverlight3\Chapter03-Graphics\OpacityMask\OpacityMask\obj\Debug\XapCacheFile.xml
